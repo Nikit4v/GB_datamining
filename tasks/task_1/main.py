@@ -1,6 +1,5 @@
 import requests
 import json
-from pprint import pprint
 
 # ## CONSTS ## #
 API_URL = "https://5ka.ru/api/v2/"
